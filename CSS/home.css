@@ -155,3 +155,7 @@ nav .nav-left {
 	display: flex;
 	align-items: center;
 }
+.disabled {
+	pointer-events: none;
+	opacity: 0.6;
+}
